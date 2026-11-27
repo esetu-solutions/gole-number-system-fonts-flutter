@@ -1,6 +1,24 @@
-# gole_number_system_fonts
+<p align="center">
+  <picture>
+    <img src="doc/images/gole-number-system-lockup-font.svg" alt="Gole Number System font files, a product of eSetu" width="530" />
+  </picture>
+</p>
+<p align="center"><b>The GoleStandard fonts for Flutter, as the package <code>gole_number_system_fonts</code>.</b><br/>
+Gole is base 100: one symbol for each value from 0 to 99, so every symbol stands for a pair of decimal digits.</p>
 
-The **GoleStandard** fonts for Flutter. They draw the symbols of the Gole Number System, which is base 100: one symbol for each value from 0 to 99, so every symbol stands for a pair of decimal digits.
+<p align="center">
+  <a href="https://github.com/esetu-solutions/gole-number-system-fonts-flutter/releases"><img src="https://img.shields.io/github/v/release/esetu-solutions/gole-number-system-fonts-flutter?include_prereleases&style=flat-square&label=release" alt="Release" /></a>
+  <a href="https://www.esetu.in/gole-number-system/licence"><img src="https://img.shields.io/badge/font-Gole%20Number%20System%20Community%20Licence%20v1.0-orange" alt="Font licence: Gole Number System Community Licence v1.0" /></a>
+</p>
+
+<p align="center">
+  <a href="#install">Install</a> ·
+  <a href="#use">Use</a> ·
+  <a href="#the-two-builds">The two builds</a> ·
+  <a href="#constants">Constants</a> ·
+  <a href="#example">Example</a> ·
+  <a href="#licence">Licence</a>
+</p>
 
 > **Licence:** this package is not open source. The fonts are licensed by eSetu Solutions Pvt Ltd under the [Gole Number System Community Licence v1.0](LICENSE). Free to use with attribution; conditions apply. See [Licence](#licence).
 
